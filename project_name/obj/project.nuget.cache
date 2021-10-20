@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpjxkFo1I1ihl/PpY5ct/9Zs6L+hkFAoc4Ur/cfBVHTX0kZ3752rVHeWZSIccKYLLZ7idwr13WJqE6oRRIxy5w==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\project_name\\project_name.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\Nez\\Nez.Persistence\\Nez.FNA.Persistence.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\Nez\\Nez.Persistence\\Nez.FNA.Persistence.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\Nez\\Nez.Portable\\Nez.FNA.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\Nez\\Nez.Portable\\Nez.FNA.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\FNA\\FNA.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\FNA\\FNA.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\Nez\\Nez.ImGui\\Nez.FNA.ImGui.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\nickc\\Downloads\\Test\\FNA-VSCode-Template-master\\FNA-VSCode-Template-master\\Nez\\Nez.ImGui\\Nez.FNA.ImGui.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.1"
+      ]
+    }
+  ]
+}

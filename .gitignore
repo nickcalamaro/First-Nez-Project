@@ -1,0 +1,13 @@
+.DS_Store
+.vs
+FNA/
+ImGui.NET/
+fnalibs/
+Get_NezFNA/bin
+Get_NezFNA/obj
+Get_NezFNA/CompiledContent/bin
+Get_NezFNA/CompiledContent/obj
+.mgstats
+imgui.ini
+imgui_log.txt
+
