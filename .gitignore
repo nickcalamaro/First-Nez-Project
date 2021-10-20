@@ -1,8 +1,6 @@
 .DS_Store
 .vs
-FNA/
 ImGui.NET/
-fnalibs/
 Get_NezFNA/bin
 Get_NezFNA/obj
 Get_NezFNA/CompiledContent/bin
